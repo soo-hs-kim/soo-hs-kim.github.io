@@ -8,13 +8,17 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Soo (Hyunsoo) Kim / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Soo (Hyunsoo) Kim"
+description              : &description "My name is Soo, and I am a Ph.D. candidate in Strategic Management at the Korea Advanced Institute of Science and Technology (KAIST) in the Republic of Korea,
+                                         with an expected graduation date of May 2025. 
+                                         My research lies at the intersection of sustainability, technological innovation, and strategy. 
+                                         In particular, I study how firms manage their technologies for a sustainable future, focusing on emissions, accelerated drug development to address global health challenges, and artificial intelligence.
+                                         "
+url                      : https://soo-hs-kim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "soo-hs-kim/soo-hs-kim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,18 +29,18 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Republic of Korea"
+  employer         : "Korea Advanced Institute of Science and Technology (KAIST)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hyunsoo.kim@kaist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ybNndMAAAAAJ&hl=ko"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8969-0778"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +48,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
