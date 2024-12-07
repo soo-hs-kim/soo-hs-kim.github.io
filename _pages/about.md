@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Welcome to Soo (Hyunsoo) Kim's personal website!"
+title: "Welcome to Soo (Hyunsoo) Kim's personal website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Soo, a Ph.D. candidate in Strategic Management at the [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) in the Republic of Korea, with an expected graduation date of May 2025.
+My name is Soo, a Ph.D. candidate in Strategic Management at the [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) in the Republic of Korea. I am expected to graduate in May 2025."
 
-My research lies at the intersection of sustainability, technological innovation, and strategy. In particular, I study how firms manage their technologies for a sustainable future, focusing on emissions, accelerated drug development to address global health challenges, and artificial intelligence. You can see my [CV here](https://www.dropbox.com/scl/fi/28pgd5gxe8s9uh1axoudi/Soo-Hyunsoo-Kim-CV.pdf?rlkey=vrsprss28uaqfjg9qvke1u163&st=kz279f7g&dl=0)
+My research lies at the intersection of sustainability, technological innovation, and strategy. In particular, I study how firms manage their technologies for a sustainable future, focusing on emissions, accelerated drug development to address global health challenges, and artificial intelligence. You can find my [CV here](https://www.dropbox.com/scl/fi/28pgd5gxe8s9uh1axoudi/Soo-Hyunsoo-Kim-CV.pdf?rlkey=vrsprss28uaqfjg9qvke1u163&st=kz279f7g&dl=0)
                                          
 EDUCATION
 ======
