@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website 😊"
+title: "Welcome to Soo (Hyunsoo) Kim's personal website!"
 author_profile: true
 redirect_from: 
   - /about/
