@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soo (Hyunsoo) Kim / Site Title"
+title                    : "Soo (Hyunsoo) Kim"
 title_separator          : "-"
 name                     : &name "Soo (Hyunsoo) Kim"
 description              : &description "My name is Soo, and I am a Ph.D. candidate in Strategic Management at the Korea Advanced Institute of Science and Technology (KAIST) in the Republic of Korea,
@@ -25,12 +25,13 @@ repository               : "soo-hs-kim/soo-hs-kim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_soo.jpg"
+  name             : "Soo (Hyunsoo) Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate
+                      Strategic Management. KAIST"
   location         : "Republic of Korea"
-  employer         : "Korea Advanced Institute of Science and Technology (KAIST)"
+  employer         : "KAIST"
   uri              : # URL
   email            : "hyunsoo.kim@kaist.ac.kr" 
 
