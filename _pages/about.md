@@ -13,10 +13,10 @@ My research lies at the intersection of sustainability, technological innovation
                                          
 EDUCATION
 ======
-- Ph.D. in Strategic Management. College of Business, KAIST, Republic of Korea
+- Ph.D. in Strategic Management. School of Business & Technology Management, KAIST, Republic of Korea
 (Expected graduation: May 2025)
 
-- M.S. in Strategic Management. College of Business, KAIST, Republic of Korea
+- M.S. in Strategic Management. School of Business & Technology Management, KAIST, Republic of Korea
 
 - B.S. in Biology (Double Major: Psychology). [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Republic of Korea
 
