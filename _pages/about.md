@@ -13,13 +13,12 @@ My research lies at the intersection of sustainability, technological innovation
                                          
 EDUCATION
 ======
-Ph.D. in Strategic Management. College of Business, KAIST, Republic of Korea
+- Ph.D. in Strategic Management. College of Business, KAIST, Republic of Korea
 (Expected graduation: May 2025)
-- (2022)
 
-M.S. in Strategic Management. College of Business, KAIST, Republic of Korea
+- M.S. in Strategic Management. College of Business, KAIST, Republic of Korea
 
-B.S. in Biology (Double Major: Psychology). [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Republic of Korea
+- B.S. in Biology (Double Major: Psychology). [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Republic of Korea
 
 PUBLICATION
 ======
@@ -41,5 +40,5 @@ GRANTS & AWARDS
 6. Award Winner. Best Paper Award. Korean Society of Strategic Management Fall Conference, Sustainability Management Division (2019)
 7. Grant. Younghan Kim Global Leader Scholarship Program (2019)
 8. Grant. Graduate Fellowships. KAIST College of Business (2019-2023)
-9. Winner, Outstanding Teaching Assistant. KAIST (2019)
+9. Winner. Outstanding Teaching Assistant. KAIST (2019)
 10. Dean’s list. College of Business. KAIST (2018)
