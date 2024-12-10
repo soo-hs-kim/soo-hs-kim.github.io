@@ -15,6 +15,7 @@ EDUCATION
 ======
 Ph.D. in Strategic Management. College of Business, KAIST, Republic of Korea
 (Expected graduation: May 2025)
+- (2022)
 
 M.S. in Strategic Management. College of Business, KAIST, Republic of Korea
 
@@ -30,3 +31,15 @@ WORKING PAPERS
 2. Hyunsoo Kim, Hyun Ju Jung, and Neil Thompson “Artificial Intelligence and Carbon Emissions”, Exploratory Data Analysis
 3. Hyun Ju Jung, Chaehyun Kim, and Hyunsoo Kim “The Trade-Off between Academic Patenting and Academic Publication”
 
+GRANTS & AWARDS
+======
+1. Grant. Korea Research Foundation (N01241184) “Corporate social responsibility and technological innovation: Trade-off or Complementary?” (2024-)
+2. Award Winner. Graduate Student Excellence Paper. KAIST (2024)
+3. Grant. Green Finance Track Scholarship Program. KAIST (2022-2023)
+4. Award Winner. Best Paper Award. Asian Society for Entrepreneurship and Innovation Science Annual Conference (2021)
+5. Winner. Outstanding Teaching Assistant. KAIST (2020)
+6. Award Winner. Best Paper Award. Korean Society of Strategic Management Fall Conference, Sustainability Management Division (2019)
+7. Grant. Younghan Kim Global Leader Scholarship Program (2019)
+8. Grant. Graduate Fellowships. KAIST College of Business (2019-2023)
+9. Winner, Outstanding Teaching Assistant. KAIST (2019)
+10. Dean’s list. College of Business. KAIST (2018)
