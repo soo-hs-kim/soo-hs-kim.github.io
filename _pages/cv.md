@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Appointment
+======
+* Assistant Professor (Tenure track; Offer accepted), School of Business, Gordon College, MA, United States, 2026 -
+* Postdoctoral Fellow (Jang Young Sil Fellow), College of Business, KAIST, Republic of Korea, 2025
+
 Education
 ======
-* Ph.D in Strategic Management, College of Business, KAIST, Republic of Korea (Expected: May 2025)
+* Ph.D in Strategic Management, College of Business, KAIST, Republic of Korea, 2025
 * M.S. in Strategic Management, College of Business, KAIST, Republic of Korea, 2019
 * B.S. in Biology (Double Major: Psychology), Sungkyunkwan University, Republic of Korea, 2017
 
@@ -23,7 +28,7 @@ Publications
 
 Working Papers
 ======
-* Hyunsoo Kim, and Hyun Ju Jung “Failure and Technology Redeployment: Evidence from Pharmaceutical Firms’ Drug Repurposing”
+* Hyunsoo Kim, and Hyun Ju Jung “Failure and Resource Redeployment: Evidence from Biopharmaceutical Industry”
 #  * Github University
 #  * Duties includes: Updates and improvements to template
 #  * Supervisor: The Users
@@ -46,16 +51,18 @@ Conference Presentations
 
 Grants and Awards
 ======
-* Korea Research Foundation Grant (N01241184) “Corporate social responsibility and technological innovation: Trade-off or Complementary?” (2024-2025)
-* Graduate Student Excellence Paper Award Winner, KAIST (2024)
+* Award, Best Doctoral Dissertation, Korean Academy of Management (2025)
+* Grant, Jang Young Sil Fellow, KAIST (2025)
+* Grant, Korea Research Foundation (N01241184) “Corporate social responsibility and technological innovation: Trade-off or Complementary?” (2024-2025)
+* Award, Graduate Student Excellence Paper, KAIST (2024)
 * Grant, Green Finance Track Scholarship Program, KAIST (2022-2023)
-* Winner, Green Finance Project, KAIST (2022)
-* Best Paper Award Winner, Asian Society for Entrepreneurship and Innovation Science Annual Conference (2021)
-* Winner, Outstanding Teaching Assistant, KAIST (2020)
-* Best Paper Award Winner, Korean Society of Strategic Management Fall Conference, Sustainability Management Division (2019)
+* Award, Best Green Finance Project, KAIST (2022)
+* Award, Best Paper, Asian Society for Entrepreneurship and Innovation Science Annual Conference (2021)
+* Award, Outstanding Teaching Assistant, KAIST (2020)
+* Award, Best Paper, Korean Society of Strategic Management Fall Conference, Sustainability Management Division (2019)
 * Grant, Younghan Kim Global Leader Scholarship Program (2019)
-* Winner, Outstanding Teaching Assistant, KAIST (2019)
-* Graduate Fellowships, KAIST College of Business (2019-2023)
+* Award, Outstanding Teaching Assistant, KAIST (2019)
+* Grant, Graduate Fellowships, KAIST College of Business (2019-2023)
 * Dean’s list, College of Business, KAIST (2018)
 
 Teaching
