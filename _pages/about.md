@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Soo, an assistant prfessor of business management at [Gordon College] (https://www.gordon.edu/) in the Republic of Korea. 
+My name is Soo, an assistant prfessor of business management at [Gordon College](https://www.gordon.edu/) in the Republic of Korea. 
 
 My research lies at the intersection of sustainability, technological innovation, and strategy. In particular, I study how firms manage their technologies for a sustainable future, focusing on emissions, accelerated drug development to address global health challenges, and artificial intelligence. You can find my [CV here](https://www.dropbox.com/scl/fi/28pgd5gxe8s9uh1axoudi/Soo-Hyunsoo-Kim-CV.pdf?rlkey=vrsprss28uaqfjg9qvke1u163&st=kz279f7g&dl=0)
 
@@ -19,9 +19,9 @@ ACADEMIC APPOINTMENT
 
 EDUCATION
 ======
-- Ph.D. in Strategic Management. School of Business & Technology Management, [KAIST] (https://kaist.ac.kr/en/), Republic of Korea
+- Ph.D. in Strategic Management. School of Business & Technology Management, [KAIST](https://kaist.ac.kr/en/), Republic of Korea
 
-- M.S. in Strategic Management. School of Business & Technology Management, [KAIST] (https://kaist.ac.kr/en/), Republic of Korea
+- M.S. in Strategic Management. School of Business & Technology Management, [KAIST](https://kaist.ac.kr/en/), Republic of Korea
 
 - B.S. in Biology (Double Major: Psychology). [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Republic of Korea
 
