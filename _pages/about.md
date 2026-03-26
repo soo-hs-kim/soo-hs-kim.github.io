@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Soo, an assistant prfessor of business management at [Gordon College](https://www.gordon.edu/) in the Republic of Korea. 
+My name is Soo, an Assistant Prfessor of Business Management at Gordon College in Wenham, Massachusetts, USA.
 
 My research lies at the intersection of sustainability, technological innovation, and strategy. In particular, I study how firms manage their technologies for a sustainable future, focusing on emissions, accelerated drug development to address global health challenges, and artificial intelligence. You can find my [CV here](https://www.dropbox.com/scl/fi/28pgd5gxe8s9uh1axoudi/Soo-Hyunsoo-Kim-CV.pdf?rlkey=vrsprss28uaqfjg9qvke1u163&st=kz279f7g&dl=0)
 
@@ -15,7 +15,7 @@ ACADEMIC APPOINTMENT
 ======
 - Assistant Professor (Tenure track), School of Business, Gordon College, MA, United States, Jan 2026 -
 
-- Postdoctoral Fellow (Jang Young Sil Fellow), College of Business, [KAIST] (https://kaist.ac.kr/en/), Republic of Korea, Sep 2025 - Dec 2025
+- Postdoctoral Fellow (Jang Young Sil Fellow), College of Business, KAIST, Republic of Korea, Sep 2025 - Dec 2025
 
 EDUCATION
 ======
