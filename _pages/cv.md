@@ -11,8 +11,8 @@ redirect_from:
 
 Academic Appointment
 ======
-* Assistant Professor (Tenure track; Offer accepted), School of Business, Gordon College, MA, United States, 2026 -
-* Postdoctoral Fellow (Jang Young Sil Fellow), College of Business, KAIST, Republic of Korea, 2025
+* Assistant Professor of Business Management (Tenure track), School of Business, Gordon College, MA, United States, 2026 Jan -
+* Postdoctoral Fellow (Jang Young Sil Fellow), College of Business, KAIST, Republic of Korea, 2025 Sep - 2025 Dec
 
 Education
 ======
